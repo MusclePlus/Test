@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "systick.h": "c",
+        "usart.h": "c",
+        "rx_data_queue.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
